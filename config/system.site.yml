@@ -1,0 +1,14 @@
+uuid: c198b2b5-35ad-4c0d-9d58-5fe0a0d738b8
+name: pantheon-support
+mail: ari@pantheon.io
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
